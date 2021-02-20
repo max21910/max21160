@@ -1,0 +1,101 @@
+Package: com.max21160.BypassIcloud
+Version: 2.0
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.BypassIcloud_2.0_iphoneos-arm.deb
+Size: 1166
+MD5sum: 7df25ad711cad4d0afcc67e71629ee5e
+Description: Fix Appstore et autre app bypassed iPhone 
+Name: BypassIcloud Fix (iOS 11-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/max21160/depictions/?p=com.max21160.BypassIcloud
+
+Package: com.max21160.CydiaX
+Version: 1.2
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.CydiaX_1.2_iphoneos-arm.deb
+Size: 5659
+MD5sum: f2deee02265071fbf8d58303a38f5f5c
+Description: New cydia homepages
+Name: CydiaX (iOS 11-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/max21160/depictions/?p=com.max21160.CydiaX
+
+
+Package: com.max21160.smallsiri
+Version: 1.2
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.smallsiri_1.2_iphoneos-arm.deb
+Size: 5556
+MD5sum: 09699bc611749e5b1c044864a9df44e0
+Description: new ui de siri
+Name: smallsiri(iOS 11-13.7)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/max21160/depictions/?p=com.max21160.smallsiri
+
+Package: com.max21160.Switchlock
+Version: 1.2
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
+Size: 1108
+MD5sum: 68d439909033f39729e2579392eaa236
+Description: Son de la switch au verrouillage
+Name: Switchlock (iOS 11-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/max21160/depictions/?p=com.max21160.Switchlock
+
+
+Package: com.max21160.GestureX
+Version: 2.0
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.GestureX_2.0_iphoneos-arm.deb
+Size: 4004
+MD5sum: e995ccb71ad2287f158046f15f8fd026
+Description: Customisation geste iPhoneX
+Name: GestureX (iOS 11-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/max21160/depictions/?p=com.max21160.GestureX
+
+
+Package: com.max21160.Lemon
+Version: 1.2
+Section: Themes
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.Lemon_1.2_iphoneos-arm.deb
+Size: 28696962
+MD5sum: 687cf3726e226c460b47f4949b58ef10
+Description: Thème snowboard
+Name: Thème lemon (iOS 13-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: hthttps://max21910.github.io/max21160/depictions/?p=com.max21160.Lemon
+
+Package: com.max21160.NoDock
+Version: 1.0
+Section: Tweaks
+Maintainer:  maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
+Size: 3770
+MD5sum: 2c2f6eb10217ee5705e1a34cac93a610
+Description: Ce Tweaks supprime le fond du dock .Pas de configuration Necessaire.
+Name: NoDock (iOS 11-14)
+Author: maxime <maxime21160@icloud.com>
+Icon: https://image.flaticon.com/icons/png/512/2972/2972090.png
+Depiction: https://max21910.github.io/max21160/depictions/?p=com.max21160.NoDock
