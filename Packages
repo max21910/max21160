@@ -19,7 +19,7 @@ Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.CydiaX_1.2_iphoneos-arm.deb
-Size: 5659
+Size: 3005884
 MD5sum: f2deee02265071fbf8d58303a38f5f5c
 Description: New cydia homepages
 Name: CydiaX (iOS 11-14)
