@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.BypassIcloud_2.0_iphoneos-arm.deb
 Size: 1188
-MD5sum: 7df25ad711cad4d0afcc67e71629ee5e
+MD5sum: 06beab1a197cabbae2c82558f9e5219f
 Description: Fix Appstore et autre app bypassed iPhone 
 Name: BypassIcloud Fix (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
@@ -48,8 +48,8 @@ Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
-Size: 1108
-MD5sum: 68d439909033f39729e2579392eaa236
+Size: 63234
+MD5sum: 69e6578f483226e454ca965aa61806eb
 Description: Son de la switch au verrouillage
 Name: Switchlock (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
@@ -63,8 +63,8 @@ Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.GestureX_2.0_iphoneos-arm.deb
-Size: 4004
-MD5sum: e995ccb71ad2287f158046f15f8fd026
+Size: 3994
+MD5sum: ddc2e94070d10925717889668fa0526d
 Description: Customisation geste iPhoneX
 Name: GestureX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
@@ -79,7 +79,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.Lemon_1.2_iphoneos-arm.deb
 Size: 28696962
-MD5sum: 687cf3726e226c460b47f4949b58ef10
+MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
 Description: Thème snowboard
 Name: Thème lemon (iOS 13-14)
 Author: maxime <maxime21160@icloud.com>
@@ -92,8 +92,8 @@ Maintainer:  maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
-Size: 3770
-MD5sum: 2c2f6eb10217ee5705e1a34cac93a610
+Size: 3786
+MD5sum: daa99937d4d39372bcd32ac0351877a8
 Description: Ce Tweaks supprime le fond du dock .Pas de configuration Necessaire.
 Name: NoDock (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
