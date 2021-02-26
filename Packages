@@ -10,7 +10,7 @@ MD5sum: 06beab1a197cabbae2c82558f9e5219f
 Description: Fix Appstore et autre app bypassed iPhone 
 Name: BypassIcloud Fix (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.BypassIcloud
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
 
 Package: com.max21160.CydiaX
 Version: 1.2
