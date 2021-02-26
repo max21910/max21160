@@ -20,7 +20,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.CydiaX_1.2_iphoneos-arm.deb
 Size: 3005884
-MD5sum: f2deee02265071fbf8d58303a38f5f5c
+MD5sum: cd60ff51c9720bef6d2e0e058266e8d2
 Description: New cydia homepages
 Name: CydiaX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
@@ -72,12 +72,12 @@ Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
 
 
 Package: com.max21160.Lemon
-Version: 1.2
+Version: 1.0
 Section: Themes
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.Lemon_1.2_iphoneos-arm.deb
+Filename: ./debs/com.max21160.Lemon_1.0_iphoneos-arm.deb
 Size: 28696962
 MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
 Description: Thème snowboard
