@@ -99,3 +99,17 @@ Name: NoDock (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Icon: https://image.flaticon.com/icons/png/512/2972/2972090.png
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
+
+Package: com.max21160.IconeX
+Version: 1.0
+Section: Tweaks
+Maintainer:  maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.IconeX_1.0_iphoneos-arm.deb
+Size: 9500
+MD5sum: aa36c3fc2db97ac2f2c571b8feb12c73
+Description: Ce Tweaks fonctionne avec Fingal
+Name: IconeX (iOS 11-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
