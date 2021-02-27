@@ -107,7 +107,7 @@ Maintainer:  maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.IconeX_1.0_iphoneos-arm.deb
-Size: 9500
+Size: 8726016
 MD5sum: aa36c3fc2db97ac2f2c571b8feb12c73
 Description: Ce Tweaks fonctionne avec Fingal
 Name: IconeX (iOS 11-14)
