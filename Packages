@@ -34,7 +34,7 @@ Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.smallsiri_1.2_iphoneos-arm.deb
-Size: 5556
+Size: 161252
 MD5sum: 09699bc611749e5b1c044864a9df44e0
 Description: new ui de siri
 Name: smallsiri(iOS 11-13.7)
@@ -78,7 +78,7 @@ Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.Lemon_1.0_iphoneos-arm.deb
-Size: 28696962
+Size: 28695176
 MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
 Description: Thème snowboard
 Name: Thème lemon (iOS 13-14)
