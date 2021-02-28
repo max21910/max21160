@@ -48,7 +48,7 @@ Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
-Size: 63234
+Size: 161252
 MD5sum: 69e6578f483226e454ca965aa61806eb
 Description: Son de la switch au verrouillage
 Name: Switchlock (iOS 11-14)
