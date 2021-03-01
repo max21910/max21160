@@ -113,3 +113,22 @@ Description: Ce Tweaks fonctionne avec Fingal
 Name: IconeX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
+
+
+
+Package: com.max21160.MagsafeX
+Version: 1.0
+Section: Tweaks
+Maintainer:  maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.MagsafeX_1.0_iphoneos-arm.deb
+Size: 5664
+MD5sum: 0bd0b0f70d817d0c8e943cc726d6d50f
+Description: Magsafe sur les ancien appareil
+Name: MagsafeX (iOS 13-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
+
+
+
