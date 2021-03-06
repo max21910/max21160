@@ -132,3 +132,20 @@ Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
 
 
 
+Package: com.max21160.pulltorespringX
+Version: 2.0
+Section: Tweaks
+Maintainer:  maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.pulltorespringx_2.0_iphoneos-arm.deb
+Size: 16244
+MD5sum: bdc5853a44d06655605030f8eaf60335
+Description: Pull dans les regalge pour redemmarer l appareil
+Name: PullToRespringX (iOS 13-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PulltorespringX
+
+
+
+
