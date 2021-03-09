@@ -12,6 +12,7 @@ Name: BypassIcloud Fix (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
 
+
 Package: com.max21160.CydiaX
 Version: 1.2
 Section: Tweaks
@@ -25,35 +26,6 @@ Description: New cydia homepages
 Name: CydiaX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX
-
-
-Package: com.max21160.smallsiri
-Version: 1.2
-Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.smallsiri_1.2_iphoneos-arm.deb
-Size: 161252
-MD5sum: 09699bc611749e5b1c044864a9df44e0
-Description: new ui de siri
-Name: smallsiri(iOS 11-13.7)
-Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
-
-Package: com.max21160.Switchlock
-Version: 1.2
-Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
-Size: 161252
-MD5sum: 69e6578f483226e454ca965aa61806eb
-Description: Son de la switch au verrouillage
-Name: Switchlock (iOS 11-14)
-Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
 
 
 Package: com.max21160.GestureX
@@ -71,35 +43,6 @@ Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
 
 
-Package: com.max21160.Lemon
-Version: 1.0
-Section: Themes
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.Lemon_1.0_iphoneos-arm.deb
-Size: 28695176
-MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
-Description: Thème snowboard
-Name: Thème lemon (iOS 13-14)
-Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
-
-Package: com.max21160.NoDock
-Version: 1.0
-Section: Tweaks
-Maintainer:  maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
-Size: 3786
-MD5sum: daa99937d4d39372bcd32ac0351877a8
-Description: Ce Tweaks supprime le fond du dock .Pas de configuration Necessaire.
-Name: NoDock (iOS 11-14)
-Author: maxime <maxime21160@icloud.com>
-Icon: https://image.flaticon.com/icons/png/512/2972/2972090.png
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
-
 Package: com.max21160.IconeX
 Version: 1.0
 Section: Tweaks
@@ -114,6 +57,20 @@ Name: IconeX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
 
+
+Package: com.max21160.Lemon
+Version: 1.0
+Section: Themes
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.Lemon_1.0_iphoneos-arm.deb
+Size: 28695176
+MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
+Description: Thème snowboard
+Name: Thème lemon (iOS 13-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
 
 
 Package: com.max21160.MagsafeX
@@ -131,7 +88,6 @@ Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
 
 
-
 Package: com.max21160.pulltorespringX
 Version: 2.0
 Section: Tweaks
@@ -144,8 +100,35 @@ MD5sum: bdc5853a44d06655605030f8eaf60335
 Description: Pull dans les regalge pour redemmarer l appareil
 Name: PullToRespringX (iOS 13-14)
 Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PulltorespringX
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PulltoresprinfgX/
+
+
+Package: com.max21160.smallsiri
+Version: 1.2
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.smallsiri_1.2_iphoneos-arm.deb
+Size: 161252
+MD5sum: 09699bc611749e5b1c044864a9df44e0
+Description: new ui de siri
+Name: smallsiri(iOS 11-13.7)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
 
 
 
-
+Package: com.max21160.Switchlock
+Version: 1.2
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
+Size: 161252
+MD5sum: 69e6578f483226e454ca965aa61806eb
+Description: Son de la switch au verrouillage
+Name: Switchlock (iOS 11-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
