@@ -88,13 +88,29 @@ Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
 
 
+
+Package: com.max21160.NoDock
+Version: 1.0
+Section: Tweaks
+Maintainer:  maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
+Size: 5654
+MD5sum: daa99937d4d39372bcd32ac0351877a8
+Description: Dock invisible
+Name: NoDock (iOS 13-13.7)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
+
+
 Package: com.max21160.PullToRespringX
 Version: 2.0
 Section: Tweaks
 Maintainer:  maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.pulltorespringx_2.0_iphoneos-arm.deb
+Filename: ./debs/com.max21160.pulltorespringx_1.0_iphoneos-arm.deb
 Size: 16244
 MD5sum: bdc5853a44d06655605030f8eaf60335
 Description: Pull dans les regalge pour redemmarer l appareil
