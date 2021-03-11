@@ -11,6 +11,7 @@ Description: Fix Appstore et autre app bypassed iPhone
 Name: BypassIcloud Fix (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud/screenshots/icone.gif
 
 
 Package: com.max21160.CydiaX
@@ -26,6 +27,7 @@ Description: New cydia homepages
 Name: CydiaX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX/screenshots/icone.png
 
 
 Package: com.max21160.GestureX
@@ -41,6 +43,7 @@ Description: Customisation geste iPhoneX
 Name: GestureX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX/screenshots/icone.png
 
 
 Package: com.max21160.IconeX
@@ -56,6 +59,7 @@ Description: Ce Tweaks fonctionne avec Fingal
 Name: IconeX (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX/screenshots/icone.gif
 
 
 Package: com.max21160.Lemon
@@ -71,7 +75,7 @@ Description: Thème snowboard
 Name: Thème lemon (iOS 13-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
-
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon/screenshots/icone.png
 
 Package: com.max21160.MagsafeX
 Version: 1.0
@@ -86,7 +90,7 @@ Description: Magsafe sur les ancien appareil
 Name: MagsafeX (iOS 13-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
-
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX/screenshots/icone.png
 
 
 Package: com.max21160.NoDock
@@ -102,6 +106,8 @@ Description: Dock invisible
 Name: NoDock (iOS 13-13.7)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock/screenshots/icone.png
+
 
 Package: com.max21160.smallsiri
 Version: 1.2
@@ -116,6 +122,7 @@ Description: new ui de siri
 Name: smallsiri(iOS 11-13.7)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri/screenshots/icone.gif
 
 
 
@@ -132,3 +139,4 @@ Description: Son de la switch au verrouillage
 Name: Switchlock (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock/screenshots/icone.gif
