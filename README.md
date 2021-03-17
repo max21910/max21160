@@ -1,8 +1,11 @@
 # repo
+Max'Repo
+================
 ```
 Update:
-14.6 comming soon ....
-14.5 (current) (beta)
+14.7 comming in april ....
+14.6 (current) (beta)
+14.5 (current) 
 14.3
 v14.1 (beta)
 v13.7 correction de bug
@@ -11,9 +14,11 @@ v13.4 (beta)
 v13.2 ajout packet
 v13.1 mise a jour de l interface
 v13.0 initial release
-```
 
-Bonjour,Je me presente je mapelle maxime J'ai 16 ans et voici ma source Cydia. Elle est coder a partire d'autre projet sur Github ,
+```
+Fonctionnement 
+================
+Max' Repo est coder a partire d'autre projet sur Github ,
 elle utilise les langages suivvant :
 -Css 51%
 -HTML 34.3%
@@ -21,23 +26,27 @@ elle utilise les langages suivvant :
 Vous pouvez voir l'ensemble du code sur: https://github.com/max21910/max21160/
 
 Comment ajouter la source:
+================
 
 -Il suffit d'ouvire Cydia sur un appareil apple jailbreaker compatible :
 
-Qu'es ce que le jailbreak ?Le jailbreak d'iOS, également appelé débridage ou déverrouillage ou encore déplombage d'iOS, est un processus permettant aux utilisateurs d'appareils tournant
+Le jailbreak d'iOS, également appelé débridage ou déverrouillage ou encore déplombage d'iOS, est un processus permettant aux utilisateurs d'appareils tournant
 sous le système d'exploitation mobile d'Apple iOS (tels que l'iPad, l'iPhone, l'iPod touch) d'obtenir un accès complet pour déverrouiller toutes les fonctionnalités
 du système d'exploitation, éliminant ainsi les restrictions et sécurités posées par Apple. Une fois iOS débridé, ses utilisateurs sont en mesure de 
 télécharger, via des installeurs comme Cydia, des applications, des extensions ou des thèmes qui ne sont pas proposés sur la boutique d'applications officielle d'Apple,
 l'App Store. Un appareil débridé tournant sous iOS peut toujours utiliser l'App Store, iTunes et toutes les autres fonctions natives du système d’exploitation.
 
 ```
-Une fois dans Cydia se rendre dans source puis appuyer sur modifier et ajouter une source et remplissez la case par :max21160.github.io/ puis continuer 
+Une fois dans Cydia rendez vous dans la section source puis appuyer sur modifier et cliquer sur ajouter une nouvelle source et remplissez la case par :https://max21910.github.io/max21160/ puis continuer 
 -une fenêtre devrait s'ouvrire et installer la source attention ne pas quitter Cydia lorsque cette fenêtre s'ouvre 
 -A la fin de l'installation une case avec écrit: Max21910 devrait apparaitre il suffit alors de cliquer dessus pour découvrir les packet proposer
+Notes: Vous pouvez également ajouter la source depuis un appareil jailbreaker depuis le site internet cliquer simplement sur le packet manager que votre iphone utilise et suiver les inscription indiquer 
+Attention: La source a specialement etait crée pour Cydia les autre packet manager ne sont donc pas suceptible de fonctionner 
 ```
--Comment marche la source :
-
-Jai fait de mon posible pour essayer de rendre la page des packet accesible d'abord quand vous cliquer sur un des packets il y a un petit rectangle indiquant le status de la source: 
+Comment marche la source :
+================
+! cette fonction est actuellement indisponible elle le sera dans une prochaine mise à jour !
+Je fait de mon possible pour essayer de rendre la page des packet accesible d'abord quand vous cliquer sur un des packets il y a un petit rectangle indiquant le status de la source: 
 ```
 -Rouge: source hors service 
 -orange: maintenance partielle certaine fonctionnalité peuvent etre indisponible
@@ -45,12 +54,16 @@ Jai fait de mon posible pour essayer de rendre la page des packet accesible d'ab
 ```
 
 
--Vous voulez mettre vos packet sur ma source :
+Vous voulez mettre vos packet sur ma source :
+================
 
-En effet j'offre un service d'Hébergement il suffit de mon contacter soit par mail a maxime21160@icloud.com 
+En effet j'offre un service d'Hébergement il suffit de mon contacter  par mail à :
+```
+ maxime21160@icloud.com 
+```
 
-merci D'avoir lu la presentation voici les condition general Vous pouvez retrouver une copie en bas de la page de chaque packet dans la section "condition generale"  :
-
+merci D'avoir lu la presentation voici les condition general d'utilisation:
+```
 de ce logiciel et des fichiers de documentation associés (le "Logiciel"), pour traiter
 dans le Logiciel sans restriction, y compris sans limitation les droits
 utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et / ou vendre
@@ -67,5 +80,5 @@ LES AUTEURS OU LES DÉTENTEURS DE DROITS D'AUTEUR SONT RESPONSABLES POUR TOUTE R
 RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION DE CONTRAT, TORT OU AUTRE, DÉCOULANT DE,
 HORS OU EN LIEN AVEC LE LOGICIEL OU L'UTILISATION OU AUTRES OPÉRATIONS DANS LE
 LOGICIEL.
-----------------------------------------------------------------------------------
+```
 

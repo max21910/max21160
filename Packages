@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.BypassIcloud_2.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.BypassIcloud_2.0_iphoneos-arm.deb
 Size: 1188
 MD5sum: 06beab1a197cabbae2c82558f9e5219f
 Description: Fix Appstore et autre app bypassed iPhone 
@@ -20,7 +20,7 @@ Section: Tweaks
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.CydiaX_1.2_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.CydiaX_1.2_iphoneos-arm.deb
 Size: 3005884
 MD5sum: cd60ff51c9720bef6d2e0e058266e8d2
 Description: New cydia homepages
@@ -36,7 +36,7 @@ Section: Tweaks
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.GestureX_2.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.GestureX_2.0_iphoneos-arm.deb
 Size: 3994
 MD5sum: ddc2e94070d10925717889668fa0526d
 Description: Customisation geste iPhoneX
@@ -46,13 +46,30 @@ Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
 icon: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX/screenshots/icone.png
 
 
+
+Package: com.max21160.PullToRespring
+Version: 1.0
+Section: Tweaks
+Maintainer: maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Debs/com.max21160.pulltorespringx_1.0_iphoneos-arm.deb
+Size: 16244
+MD5sum: bdc5853a44d06655605030f8eaf60335
+Description:  Pull down in Settings to respring
+Name: PullToRespringX (iOS 13-14)
+Author: maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring
+icon: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring/screenshots/icone.png
+
+
 Package: com.max21160.IconeX
 Version: 1.0
 Section: Tweaks
 Maintainer:  maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.IconeX_1.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.IconeX_1.0_iphoneos-arm.deb
 Size: 8726016
 MD5sum: aa36c3fc2db97ac2f2c571b8feb12c73
 Description: Ce Tweaks fonctionne avec Fingal
@@ -62,20 +79,21 @@ Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
 icon: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX/screenshots/icone.gif
 
 
-Package: com.max21160.Lemon
-Version: 1.0
-Section: Themes
+Package: com.max21160.LemonX
+Version: 1.2
+Section: Thèmes
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.Lemon_1.0_iphoneos-arm.deb
-Size: 28695176
-MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
+Filename: ./Debs/com.max21160.LemonX_1.2_iphoneos-arm.deb
+Size: 28697066
+MD5sum: 3775e0d0bc66678af35e98c1dda52861
 Description: Thème snowboard
 Name: Thème lemon (iOS 13-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
 icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon/screenshots/icone.png
+
 
 Package: com.max21160.MagsafeX
 Version: 1.0
@@ -83,7 +101,7 @@ Section: Tweaks
 Maintainer:  maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.MagsafeX_1.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.MagsafeX_1.0_iphoneos-arm.deb
 Size: 5654
 MD5sum: 0bd0b0f70d817d0c8e943cc726d6d50f
 Description: Magsafe sur les ancien appareil
@@ -99,7 +117,7 @@ Section: Tweaks
 Maintainer:  maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
 Size: 5654
 MD5sum: daa99937d4d39372bcd32ac0351877a8
 Description: Dock invisible
@@ -115,7 +133,7 @@ Section: Tweaks
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.smallsiri_1.2_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.smallsiri_1.2_iphoneos-arm.deb
 Size: 161252
 MD5sum: 09699bc611749e5b1c044864a9df44e0
 Description: new ui de siri
@@ -132,7 +150,7 @@ Section: Tweaks
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
 Size: 161252
 MD5sum: 69e6578f483226e454ca965aa61806eb
 Description: Son de la switch au verrouillage
@@ -140,3 +158,4 @@ Name: Switchlock (iOS 11-14)
 Author: maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
 icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock/screenshots/icone.gif
+
