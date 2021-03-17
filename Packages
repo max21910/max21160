@@ -81,7 +81,7 @@ icon: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX/screenshot
 
 Package: com.max21160.LemonX
 Version: 1.2
-Section: Thèmes
+Section: Themes
 Maintainer: maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
