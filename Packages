@@ -1,161 +1,162 @@
 Package: com.max21160.BypassIcloud
 Version: 2.0
-Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.BypassIcloud_2.0_iphoneos-arm.deb
-Size: 1188
 MD5sum: 06beab1a197cabbae2c82558f9e5219f
-Description: Fix Appstore et autre app bypassed iPhone 
-Name: BypassIcloud Fix (iOS 11-14)
-Author: maxime <maxime21160@icloud.com>
+SHA1: 362c58d6eabf83c534ad1a195e16d98f3995b970
+SHA256: 8007eade08ba4d06804c9ad54f0192007e1cf6ea2a89d416ca793cdda4290c62
+Section: Tweaks
+Description: bypass AppStore et d'autre Fonctionnaliter sur les appareils bypasser icloud
+Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud/screenshots/icone.gif
-
+Name: BypassIcloud 
 
 Package: com.max21160.CydiaX
 Version: 1.2
-Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.CydiaX_1.2_iphoneos-arm.deb
 Size: 3005884
 MD5sum: cd60ff51c9720bef6d2e0e058266e8d2
-Description: New cydia homepages
-Name: CydiaX (iOS 11-14)
-Author: maxime <maxime21160@icloud.com>
+SHA1: ca98079b2d5b467a2c276de23cdb1cd83bf15800
+SHA256: 7ea9db77046cdd6fd7593db41c5c0c8acd381bcd30804646043c6c3e34dc4ce4
+Section: Tweaks
+Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX/screenshots/icone.png
-
+Descriptions: New cydia HomePage
+Name: CydiaX 
 
 Package: com.max21160.GestureX
 Version: 2.0
-Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.GestureX_2.0_iphoneos-arm.deb
 Size: 3994
 MD5sum: ddc2e94070d10925717889668fa0526d
-Description: Customisation geste iPhoneX
-Name: GestureX (iOS 11-14)
-Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX/screenshots/icone.png
-
-
-
-Package: com.max21160.PullToRespring
-Version: 1.0
+SHA1: 55de658df0e15d4c2a127aeb7fbc0660900a89a9
+SHA256: e1cb7b5733dffbad3c792dd55f7dfc939e7f3c1d6031e4de2054347e93360a40
 Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./Debs/com.max21160.pulltorespringx_1.0_iphoneos-arm.deb
-Size: 16244
-MD5sum: bdc5853a44d06655605030f8eaf60335
-Description:  Pull down in Settings to respring
-Name: PullToRespringX (iOS 13-14)
-Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring/screenshots/icone.png
-
+Description: iPhone X gesture sur les ancien appareils
+Author: Maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
+Name: GestureX 
 
 Package: com.max21160.IconeX
 Version: 1.0
-Section: Tweaks
-Maintainer:  maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.IconeX_1.0_iphoneos-arm.deb
 Size: 8726016
 MD5sum: aa36c3fc2db97ac2f2c571b8feb12c73
-Description: Ce Tweaks fonctionne avec Fingal
-Name: IconeX (iOS 11-14)
-Author: maxime <maxime21160@icloud.com>
+SHA1: 408559735b70ddcca36b97eac90364622b101e26
+SHA256: e4506272d23a41f99efb9a408aa761854583a32fc7380b16b9854b06fcf72ac7
+Section: Theme
+Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX/screenshots/icone.gif
+Name: IconeX
 
-
-Package: com.max21160.LemonX
+Package: com.max21160.Lemon
 Version: 1.2
-Section: Themes
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.LemonX_1.2_iphoneos-arm.deb
-Size: 28697066
-MD5sum: 3775e0d0bc66678af35e98c1dda52861
-Description: Thème snowboard
-Name: Thème lemon (iOS 13-14)
-Author: maxime <maxime21160@icloud.com>
+Size: 28695176
+MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
+SHA1: 89940a967ddc5fde4d071e784fc82ec344c025d3
+SHA256: 563721908873a4a3da4e9b06e1771e5b0351494ca58212d8eedd7267400db794
+Section: Thème
+Description: Theme snowboard
+Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon/screenshots/icone.png
+Name: Lemon 
 
 
 Package: com.max21160.MagsafeX
 Version: 1.0
-Section: Tweaks
-Maintainer:  maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.MagsafeX_1.0_iphoneos-arm.deb
 Size: 5654
 MD5sum: 0bd0b0f70d817d0c8e943cc726d6d50f
-Description: Magsafe sur les ancien appareil
-Name: MagsafeX (iOS 13-14)
-Author: maxime <maxime21160@icloud.com>
+SHA1: 23a1fef5c7a478e3ff4ea6c5269cfe0651a8da07
+SHA256: 67f485542e78f83ece2d081b1199e1a33b822c9031062e83c1d223b76e27a63d
+Section: Tweaks
+Description: Magsafe  sur les ancien appareils
+Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX/screenshots/icone.png
-
+Name: MagsafeX
 
 Package: com.max21160.NoDock
 Version: 1.0
-Section: Tweaks
-Maintainer:  maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
-Size: 5654
+Size: 3786
 MD5sum: daa99937d4d39372bcd32ac0351877a8
-Description: Dock invisible
-Name: NoDock (iOS 13-13.7)
-Author: maxime <maxime21160@icloud.com>
+SHA1: cfa39b1db593e1e00483827bc98bf21573925fd7
+SHA256: e847c5023c2dcba296c87f85bb4045cdfd7225d54f5e5c9cd9f03d6691f1df79
+Section: Tweaks
+Description: supprime l'arrière plan du dock
+Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock/screenshots/icone.png
+Name: NoDock
 
+Package: com.max21160.SwitchLock
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
+Filename: ./Debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
+Size: 63234
+MD5sum: 69e6578f483226e454ca965aa61806eb
+SHA1: a5d0d1d23032ff0da57f2be716c8f4dac0c00a6d
+SHA256: 6335dda5ac5f682983cc2de8e2acf982b11a494fce96571fd0fbf194b40a5e83
+Section: Tweaks
+Description: son de la switch au verrouillage
+Author: Maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
+Name: SwitchLock 
+
+Package: com.max21160.pulltorespringx
+Version: 2.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: Maxime21160 <maxime21160@icloud.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./Debs/com.max21160.pulltorespringx_1.0_iphoneos-arm.deb
+Size: 16244
+MD5sum: bdc5853a44d06655605030f8eaf60335
+SHA1: 6279fb06cb1d83a1a2b3cb40213553d9e9105c08
+SHA256: 82f1afa3977ea03952390b05e371a757330e54adabc9aa41bd937468beec5019
+Section: Tweaks
+Description: Pull down in Settings to respring
+Author: Maxime21160 <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring
+Name: PullToRespringx
 
 Package: com.max21160.smallsiri
 Version: 1.2
-Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Maxime <maxime21160@icloud.com>
+Depends: mobilesubstrate
 Filename: ./Debs/com.max21160.smallsiri_1.2_iphoneos-arm.deb
 Size: 161252
-MD5sum: 09699bc611749e5b1c044864a9df44e0
-Description: new ui de siri
-Name: smallsiri(iOS 11-13.7)
-Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri/screenshots/icone.gif
-
-
-
-Package: com.max21160.Switchlock
-Version: 1.2
+MD5sum: 84a7b38f496b3b304b949eaf65e6703b
+SHA1: f91beb959275f96855928d695838ef2b842123cf
+SHA256: cd46855f5f784ba5a522a5059c2c73e18f8b4f1292879d96fc1bbd826fb67861
 Section: Tweaks
-Maintainer: maxime <maxime21160@icloud.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./Debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
-Size: 161252
-MD5sum: 69e6578f483226e454ca965aa61806eb
-Description: Son de la switch au verrouillage
-Name: Switchlock (iOS 11-14)
-Author: maxime <maxime21160@icloud.com>
-Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
-icon: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock/screenshots/icone.gif
+Description: Customisation de siri
+Author: Maxime <maxime21160@icloud.com>
+Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
+Name: SmallSiri
+
+
 
