@@ -3,7 +3,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.BypassIcloud_2.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.bypassicloud_2.0_iphoneos-arm.deb
 MD5sum: 06beab1a197cabbae2c82558f9e5219f
 SHA1: 362c58d6eabf83c534ad1a195e16d98f3995b970
 SHA256: 8007eade08ba4d06804c9ad54f0192007e1cf6ea2a89d416ca793cdda4290c62
@@ -18,7 +18,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.CydiaX_1.2_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.cydiax_1.2_iphoneos-arm.deb
 Size: 3005884
 MD5sum: cd60ff51c9720bef6d2e0e058266e8d2
 SHA1: ca98079b2d5b467a2c276de23cdb1cd83bf15800
@@ -34,7 +34,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.GestureX_2.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.gesturex_2.0_iphoneos-arm.deb
 Size: 3994
 MD5sum: ddc2e94070d10925717889668fa0526d
 SHA1: 55de658df0e15d4c2a127aeb7fbc0660900a89a9
@@ -50,7 +50,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.IconeX_1.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.iconex_1.0_iphoneos-arm.deb
 Size: 8726016
 MD5sum: aa36c3fc2db97ac2f2c571b8feb12c73
 SHA1: 408559735b70ddcca36b97eac90364622b101e26
@@ -65,7 +65,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.LemonX_1.2_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.lemon_1.0_iphoneos-arm.deb
 Size: 28695176
 MD5sum: 172fb03ba5a961ecfb5a1cffc54c9721
 SHA1: 89940a967ddc5fde4d071e784fc82ec344c025d3
@@ -82,7 +82,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.MagsafeX_1.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.magsafex_1.0_iphoneos-arm.deb
 Size: 5654
 MD5sum: 0bd0b0f70d817d0c8e943cc726d6d50f
 SHA1: 23a1fef5c7a478e3ff4ea6c5269cfe0651a8da07
@@ -98,7 +98,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.NoDock_1.0_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.nodock_1.0_iphoneos-arm.deb
 Size: 3786
 MD5sum: daa99937d4d39372bcd32ac0351877a8
 SHA1: cfa39b1db593e1e00483827bc98bf21573925fd7
@@ -114,7 +114,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Maxime <maxime21160@icloud.com>
 Depends: mobilesubstrate
-Filename: ./Debs/com.max21160.Switchlock_1.2_iphoneos-arm.deb
+Filename: ./Debs/com.max21160.switchlock_1.2_iphoneos-arm.deb
 Size: 63234
 MD5sum: 69e6578f483226e454ca965aa61806eb
 SHA1: a5d0d1d23032ff0da57f2be716c8f4dac0c00a6d
