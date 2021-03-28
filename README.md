@@ -5,7 +5,7 @@ Max'Repo
 Update:
 14.7 comming in april ....
 14.6 (current) (beta)
-14.5 (current) 
+14.5 
 14.3
 v14.1 (beta)
 v13.7 correction de bug
@@ -16,7 +16,7 @@ v13.1 mise a jour de l interface
 v13.0 initial release
 
 ```
-Fonctionnement 
+Fonctionnement :
 ================
 Max' Repo est coder a partire d'autre projet sur Github ,
 elle utilise les langages suivvant :
