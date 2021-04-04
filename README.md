@@ -3,10 +3,11 @@ Max'Repo
 ================
 ```
 Update:
-14.7 comming in april ....
-14.6 (current) (beta)
-14.5 
-14.3
+v14.8 coming in may ....
+v14.7 (current) (beta)
+v14.6 (beta)
+v14.5 
+v14.3
 v14.1 (beta)
 v13.7 correction de bug
 v13.6 correction de bug
@@ -18,7 +19,7 @@ v13.0 initial release
 ```
 Fonctionnement :
 ================
-Max' Repo est coder a partire d'autre projet sur Github ,
+Max ' Repo est coder a partire d'autre projet sur Github ,
 elle utilise les langages suivvant :
 -Css 51%
 -HTML 34.3%
@@ -45,7 +46,7 @@ Attention: La source a specialement etait crée pour Cydia les autre packet mana
 ```
 Comment marche la source :
 ================
-! cette fonction est actuellement indisponible elle le sera dans une prochaine mise à jour !
+! cette fonction est actuellement disponible !
 Je fait de mon possible pour essayer de rendre la page des packet accesible d'abord quand vous cliquer sur un des packets il y a un petit rectangle indiquant le status de la source: 
 ```
 -Rouge: source hors service 
@@ -58,8 +59,7 @@ Vous voulez mettre vos packet sur ma source :
 ================
 
 En effet j'offre un service d'Hébergement il suffit de mon contacter  par mail à :
-```
- maxime21160@icloud.com 
+``` maxime21160@icloud.com 
 ```
 
 merci D'avoir lu la presentation voici les condition general d'utilisation:
