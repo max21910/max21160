@@ -11,6 +11,7 @@ Section: Tweaks
 Description: Bypass AppStore et d'autre Fonctionnaliter 
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
 Name: BypassIcloud 
 
 Package: com.max21160.CydiaX
@@ -27,6 +28,7 @@ Section: Tweaks
 Description: Nouvelle Page de Cydia
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX
 Descriptions: New cydia HomePage
 Name: CydiaX 
 
@@ -44,6 +46,7 @@ Section: Tweaks
 Description: iPhone X gesture sur les ancien appareils
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
 Name: GestureX 
 
 Package: com.max21160.IconeX
@@ -60,6 +63,7 @@ Section: Themes
 Description: Theme fingal
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
 Name: IconeX
 
 Package: com.max21160.Lemon
@@ -76,6 +80,7 @@ Section: Themes
 Description: Theme snowboard
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
 Name: Lemon 
 
 
@@ -93,6 +98,7 @@ Section: Tweaks
 Description: Magsafe  sur les ancien appareils
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
 Name: MagsafeX
 
 Package: com.max21160.NoDock
@@ -109,6 +115,7 @@ Section: Tweaks
 Description: supprime l'arrière plan du dock
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
 Name: NoDock
 
 Package: com.max21160.SwitchLock
@@ -125,6 +132,7 @@ Section: Tweaks
 Description: son de la switch au verrouillage
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
 Name: SwitchLock 
 
 Package: com.max21160.pulltorespringx
@@ -142,6 +150,7 @@ Section: Tweaks
 Description: Pull down in Settings to respring
 Author: Maxime21160 <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring
 Name: PullToRespringx
 
 Package: com.max21160.smallsiri
@@ -158,4 +167,5 @@ Section: Tweaks
 Description: Customisation de siri
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
+SileoDepiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
 Name: SmallSiri
