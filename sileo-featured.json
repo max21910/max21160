@@ -21,14 +21,7 @@
         "package": "com.max21160.PullToRespring",
         "hideShadow": false
     },
-     {
-   "name": "MaxRepo",
-   "icon": "https://github.com/max21910/max21160/blob/main/CydiaIcon.png?raw=true",
-   "description": "Max Repo Pay",
-   "authentication_banner": {
-      "message": "Sample sign in prompt text",
-      "button": "Sign in"
-        },
+    
    ]
 }
 
