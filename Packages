@@ -11,7 +11,7 @@ Section: Tweaks
 Description: Bypass AppStore et d'autre Fonctionnaliter 
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
-SileoDepiction: https://max21910.github.io/Tweak/deciptions/sileo/com.max21160.Bypassicloud
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.Bypassicloud/depiction.json
 Name: BypassIcloud 
 
 Package: com.max21160.CydiaX
