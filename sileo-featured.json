@@ -28,9 +28,7 @@
    "authentication_banner": {
       "message": "Sample sign in prompt text",
       "button": "Sign in"
-   },
-  
+        },
    ]
-}  
-  
+}
 
