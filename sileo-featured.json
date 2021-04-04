@@ -4,16 +4,17 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://github.com/max21910/max21160/assets/Banners/RepoHeader.png",
+        "url": "https://github.com/max21910/max21160/assets/repo/Banners/RepoHeader.png",
         "title": "Uptdate 14.7 available",
         "package": "com.max21160.MagsafeX",
         "hideShadow": false
     }
     {
-        "url": "https://github.com/max21910/max21160/assets/Banners/RepoHeader2.png",
+        "url": "https://github.com/max21910/max21160/assets/repo/Banners/RepoHeader2.png",
         "title": "PullToRespring",
         "package": "com.max21160.PullToRespring",
         "hideShadow": false
-        }
+        
+    }
   ]
 }
