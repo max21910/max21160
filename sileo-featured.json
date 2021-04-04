@@ -8,13 +8,8 @@
         "title": "Uptdate 14.7 available",
         "package": "com.max21160.MagsafeX",
         "hideShadow": false
-    }
-    {
-        "url": "https://github.com/max21910/max21160/blob/main/assets/repo/Banners/RepoHeader2.png?raw=true",
-        "title": "PullToRespring",
-        "package": "com.max21160.PullToRespring",
-        "hideShadow": false
-        
-    }
-  }
-}
+         }
+  ]
+}   
+  
+
