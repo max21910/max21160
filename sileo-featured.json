@@ -4,15 +4,21 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://github.com/max21910/max21160/blob/main/assets/repo/Banners/profile1.png?raw=true",
-        "title": "Uptdate 14.7 available",
-        "package": "com.max21160.MagsafeX",
+        "url": "https://github.com/max21910/max21160/blob/main/assets/repo/Banners/Home.png?raw=true",
+        "title": "Uptdate 14.7 ",
+        "package": "",
         "hideShadow": false
     },
     {
-        "url": "https://github.com/max21910/max21160/blob/main/assets/repo/Banners/MagsafeX.png?raw=true",
+        "url": "https://github.com/max21910/max21160/blob/main/assets/repo/Banners/Home-1.png?raw=true",
         "title": "MagsafeX",
         "package": "com.max21160.MagsafeX",
+        "hideShadow": false
+    },
+     {
+        "url": "https://github.com/max21910/max21160/blob/main/assets/repo/Banners/Home-2.png?raw=true",
+        "title": "PullToRespring",
+        "package": "com.max21160.PullToRespring",
         "hideShadow": false
     },
    ]
