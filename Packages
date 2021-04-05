@@ -11,7 +11,7 @@ Section: Tweaks
 Description: Bypass AppStore et d'autre Fonctionnaliter.
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Bypassicloud
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.Bypassicloud/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.Bypassicloud/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/IcloudBypassicone.png?raw=true
 Name: BypassIcloud 
 
@@ -29,7 +29,7 @@ Section: Tweaks
 Description: Nouvelle Page D'accueil de Cydia
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.CydiaX
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.CydiaX/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.CydiaX/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/CydiaXicone.png?raw=true
 Name: CydiaX 
 
@@ -47,7 +47,7 @@ Section: Tweaks
 Description: geste de l'iPhone X  sur les ancien appareils.
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.GestureX
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.GestureX/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.GestureX/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/GestureXIcone.png?raw=true
 Name: GestureX 
 
@@ -65,7 +65,7 @@ Section: Themes
 Description: Thème fingal
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.IconeX
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.IconeX/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.IconeX/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/iconeXIcone.png?raw=true
 Name: IconeX
 
@@ -83,7 +83,7 @@ Section: Themes
 Description: Thème snowboard
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Lemon
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.Lemon/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.Lemon/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/Lemonicone.png?raw=true
 Name: Lemon 
 
@@ -102,7 +102,7 @@ Section: Tweaks
 Description: Magsafe  sur les ancien Iphone
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.MagsafeX
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.MagsafeX/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.MagsafeX/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/MagsafeXicone.png?raw=true
 Name: MagsafeX
 
@@ -120,7 +120,7 @@ Section: Tweaks
 Description: supprime l'arrière plan du dock
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.NoDock
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.NoDock/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.NoDock/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/NoDockicone.png?raw=true
 Name: NoDock
 
@@ -138,7 +138,7 @@ Section: Tweaks
 Description: son de la switch au verrouillage de l'iphone.
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.Switchlock
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.Switchlock/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.Switchlock/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/SwitchLockicone.png?raw=true
 Name: SwitchLock 
 
@@ -157,7 +157,7 @@ Section: Tweaks
 Description: Pull down in Settings to respring
 Author: Maxime21160 <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.PullToRespring
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/PullToRespring/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/PullToRespring/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/PullToRespringicone.png?raw=true
 Name: PullToRespringx
 
@@ -175,6 +175,6 @@ Section: Tweaks
 Description: Customisation de siri
 Author: Maxime <maxime21160@icloud.com>
 Depiction: https://max21910.github.io/Tweak/deciptions/com.max21160.smallsiri
-SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/sileo%20/com.max21160.smallsiri/depiction.json
+SileoDepiction: https://raw.githubusercontent.com/max21910/Tweak/master/deciptions/Sileo%20/com.max21160.smallsiri/depiction.json
 icon: https://github.com/max21910/Tweak/blob/master/deciptions/Sileo%20/icon/SmallSiriicone.png?raw=true
 Name: SmallSiri
