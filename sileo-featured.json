@@ -4,12 +4,6 @@
   "itemCornerRadius": 12,
   "banners": [
     {
-        "url": "https://github.com/max21910/max21160/blob/main/assets/Banners/Home.png?raw=true",
-        "title": "Uptdate 14.7 ",
-        "package": "",
-        "hideShadow": false
-    },
-    {
         "url": "https://github.com/max21910/max21160/blob/main/assets/Banners/Home-1.png?raw=true",
         "title": "MagsafeX 1.0",
         "package": "com.max21160.MagsafeX",
@@ -17,8 +11,8 @@
     },
     {
         "url": "https://github.com/max21910/max21160/blob/main/assets/Banners/Home-2.png?raw=true",
-        "title": "Lemon 1.2",
-        "package": "com.max21160.lemon",
+        "title": "CydiaX 2.0",
+        "package": "com.max21160.CydiaX",
         "hideShadow": false
     },
      {
