@@ -3,7 +3,15 @@
   "itemSize": "{296, 148}",
   "itemCornerRadius": 12,
   "banners": [
-    {
+   {
+        "name": "Max Repo",
+        "icon": "https://github.com/max21910/max21160/blob/main/CydiaIcon.png?raw=true",
+        "description": "Max Repo Pay",
+        "authentication_banner": {
+        "message": "Sample sign in prompt text",
+        "button": "Sign in"
+   },
+   {
         "url": "https://github.com/max21910/max21160/blob/main/assets/Banners/Home-1.png?raw=true",
         "title": "MagsafeX 1.0",
         "package": "com.max21160.MagsafeX",
@@ -21,16 +29,7 @@
         "package": "com.max21160.smallsiri",
         "hideShadow": false
     },
-    {
-   "name": "Max Repo",
-   "icon": "https://github.com/max21910/max21160/blob/main/CydiaIcon.png?raw=true",
-   "description": "Max Repo Pay",
-   "authentication_banner": {
-      "message": "Sample sign in prompt text",
-      "button": "Sign in"
-   }
-}
-    
-   ]
+   
+     ]
 }
 
