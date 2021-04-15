@@ -1,10 +1,11 @@
 # repo
-Max'Repo
+Max' Repo
 ================
 ```
 Update:
-v14.8 coming in may ....
-v14.7 (current) (beta)
+14.9 coming soon.....
+v14.8 (current) (beta)
+v14.7 (beta)
 v14.6 (beta)
 v14.5 
 v14.3
@@ -19,17 +20,24 @@ v13.0 initial release
 ```
 Fonctionnement :
 ================
-Max ' Repo est coder a partire d'autre projet sur Github ,
+Max' Repo est une source cydia cree et developper par Max21910
 elle utilise les langages suivvant :
--Css 51%
--HTML 34.3%
--JavaScript 14.7%
+-Css 
+-HTML 
+-JavaScript 
+-Json
+Les tweaks utilise le la,gage suivant:
+-objectif C
 Vous pouvez voir l'ensemble du code sur: https://github.com/max21910/max21160/
+
+Note:
+Max' Repo n'est plus complètement compatible avec Cydia depuis la V14.6
+================
 
 Comment ajouter la source:
 ================
 
--Il suffit d'ouvire Cydia sur un appareil apple jailbreaker compatible :
+-Il suffit d'ouvire Cydia ou sileo ou zebra ou instaler sur un appareil apple jailbreaker compatible :
 
 Le jailbreak d'iOS, également appelé débridage ou déverrouillage ou encore déplombage d'iOS, est un processus permettant aux utilisateurs d'appareils tournant
 sous le système d'exploitation mobile d'Apple iOS (tels que l'iPad, l'iPhone, l'iPod touch) d'obtenir un accès complet pour déverrouiller toutes les fonctionnalités
@@ -38,30 +46,28 @@ télécharger, via des installeurs comme Cydia, des applications, des extensions
 l'App Store. Un appareil débridé tournant sous iOS peut toujours utiliser l'App Store, iTunes et toutes les autres fonctions natives du système d’exploitation.
 
 ```
-Une fois dans Cydia rendez vous dans la section source puis appuyer sur modifier et cliquer sur ajouter une nouvelle source et remplissez la case par :https://max21910.github.io/max21160/ puis continuer 
--une fenêtre devrait s'ouvrire et installer la source attention ne pas quitter Cydia lorsque cette fenêtre s'ouvre 
--A la fin de l'installation une case avec écrit: Max21910 devrait apparaitre il suffit alors de cliquer dessus pour découvrir les packet proposer
+Une fois dans  Cydia ou sileo ou zebra ou instaler rendez vous dans la section source puis appuyer sur modifier et cliquer sur ajouter une nouvelle source et remplissez la case par :https://max21910.github.io/max21160/ puis continuer 
+-une fenêtre devrait s'ouvrire et installer la source automatiquement attention ne pas quitter ou annuler lorsque cette fenêtre s'ouvre 
+-à la fin de l'installation une case avec écrit: Max' Repo devrait apparaitre il suffit alors de cliquer dessus pour découvrir les packets .
 Notes: Vous pouvez également ajouter la source depuis un appareil jailbreaker depuis le site internet cliquer simplement sur le packet manager que votre iphone utilise et suiver les inscription indiquer 
 Attention: La source a specialement etait crée pour Cydia les autre packet manager ne sont donc pas suceptible de fonctionner 
 ```
-Comment marche la source :
+Comment Fonctionne la source :
 ================
-! cette fonction est actuellement disponible !
-Je fait de mon possible pour essayer de rendre la page des packet accesible d'abord quand vous cliquer sur un des packets il y a un petit rectangle indiquant le status de la source: 
+! cette fonction est actuellement non  disponible !
+Je fait de mon possible pour essayer de rendre la page des packet accesible quand vous cliquer sur un des packets il y a un petit rectangle indiquant le status de la source: 
 ```
 -Rouge: source hors service 
 -orange: maintenance partielle certaine fonctionnalité peuvent etre indisponible
 -Vert: la source fonctionne correctement 
 ```
 
-
-Vous voulez mettre vos packet sur ma source :
+Voulez vous mettre vos packet sur ma source :
 ================
 
 En effet j'offre un service d'Hébergement il suffit de mon contacter  par mail à :
 ``` maxime21160@icloud.com 
 ```
-
 merci D'avoir lu la presentation voici les condition general d'utilisation:
 ```
 de ce logiciel et des fichiers de documentation associés (le "Logiciel"), pour traiter
